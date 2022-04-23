@@ -1,12 +1,12 @@
-# Hi there 👋 this is Erfan
-[![erfanoabdi github stats](https://github-readme-stats.vercel.app/api?username=erfanoabdi&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/erfanoabdi)
+# Aldin UGljanin
+[![AldinUgljanin github stats](https://github-readme-stats.vercel.app/api?username=AldinUgljanin&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/AldinUgljanin)
 
 ## How's life
 - 💻 Student of Software Engineering at DUNP
 - 📱 Learning Linux Kernel Devleopment
 
 ## What's the weather
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanoabdi&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/erfanoabdi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AldinUgljanin&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/AldinUgljanin)
 
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
