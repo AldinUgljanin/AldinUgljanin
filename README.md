@@ -10,9 +10,9 @@
 
 ## What i know
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 <img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">
 <img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="64">
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 ![bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
