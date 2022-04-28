@@ -22,3 +22,5 @@
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"
 width="32">](http://t.me/aldinugljanin/)
 [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/aldinugljanin/)
+
+01000001 01101100 01100100 01101001 01101110 01010101 01100111 01101100 01101010 01100001 01101110 01101001 01101110 
