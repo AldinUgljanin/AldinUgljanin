@@ -21,6 +21,6 @@
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/aldinugljanin/)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg"
 width="32">](http://t.me/aldinugljanin/)
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/aldinugljanin/)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://www.linkedin.com/in/aldin-ugljanin-099137239/)
 
 01000001 01101100 01100100 01101001 01101110 00100000 01010101 01100111 01101100 01101010 01100001 01101110 01101001 01101110
